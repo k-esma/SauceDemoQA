@@ -1,0 +1,20 @@
+{
+  "name": "finalni",
+  "version": "1.0.0",
+  "description": "qa-ispit",
+  "license": "ISC",
+  "author": "Esma Korac",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "selenium-webdriver": "^4.28.1"
+  }
+}
